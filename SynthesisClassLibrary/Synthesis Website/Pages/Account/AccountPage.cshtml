@@ -1,0 +1,72 @@
+﻿@page
+@model Synthesis_Website.Pages.Account.AccountPageModel
+@{
+}
+
+
+@if (User.FindFirst(System.Security.Claims.ClaimTypes.Email).Value.ToString() == Model.Acc.Email)
+{
+
+
+    <form method="post" class="align-content-center">
+        <h1 class="h3 mb-3 fw-normal">Edit information:</h1>
+
+
+
+        <label>Email address</label>
+        <input type="email" class=" form-control-sm" asp-for="Acc.Email" >
+        <span class="text-danger" asp-validation-for="Acc.Email"></span>
+        <br>
+
+        <label>Name</label>
+        <input type="text" class=" form-control-sm" asp-for="Acc.Name" >
+        <span class="text-danger" asp-validation-for="Acc.Name"></span>
+        <br>
+        <label>Password</label>
+        <input type="password" class="form-control-sm" asp-for="Acc.Password" >
+        <span class="text-danger" asp-validation-for="Acc.Password"></span>
+        <br>
+        <label>Address</label>
+        <input type="text" class="form-control-sm" asp-for="Acc.Address" >
+        <span class="text-danger" asp-validation-for="Acc.Address"></span>
+        <br>
+        <label>Birthdate</label>
+        <p>@Model.Acc.BirthDate</p>
+        <br />
+        <br>
+        <button class=" btn btn-sm btn-primary" type="submit">Edit</button>
+    </form>
+}
+
+@if(User.FindFirst(System.Security.Claims.ClaimTypes.Email).Value.ToString() == null || User.FindFirst(System.Security.Claims.ClaimTypes.Email).Value.ToString() != Model.Acc.Email)
+{
+    
+    <form method="post" class="align-content-center">
+        <h1 class="h3 mb-3 fw-normal">Edit information:</h1>
+
+
+
+        <label>Email address</label>
+        <input type="email" class=" form-control-sm" asp-for="Acc.Email" readonly>
+        <span class="text-danger" asp-validation-for="Acc.Email"></span>
+
+
+        <label>Name</label>
+        <input type="text" class=" form-control-sm" asp-for="Acc.Name" readonly>
+        <span class="text-danger" asp-validation-for="Acc.Name"></span>
+
+        <label>Address</label>
+        <input type="password" class="form-control-sm" asp-for="Acc.Address" readonly>
+        <span class="text-danger" asp-validation-for="Acc.Address"></span>
+
+        <label>Birthdate</label>
+        <p>@Model.Acc.BirthDate</p>
+        <br />
+
+        <br />
+
+    </form>
+
+    
+}
+

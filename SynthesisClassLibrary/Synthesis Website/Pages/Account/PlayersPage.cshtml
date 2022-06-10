@@ -1,0 +1,23 @@
+﻿@page
+@using SynthesisClassLibrary.Classess
+@model Synthesis_Website.Pages.Account.PlayersPageModel
+@{
+}
+
+<form method="get">
+    <div class="input-group">
+        <input class="form-control" asp-for="SearchString">
+        <div class="input-group-append">
+            <button class="btn btn-primary" type="submit">Search</button>
+        </div>
+    </div>
+</form>
+
+
+@foreach(Player p in Model.Players)
+{
+	<div>
+	<p>@p.ToString()</p>
+	<a asp-page="/Account/AccountPage" asp-route-Id="@p.Id">View Profile</a>
+	</div>
+}

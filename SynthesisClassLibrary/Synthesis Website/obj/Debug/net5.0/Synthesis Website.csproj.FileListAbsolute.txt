@@ -1,0 +1,8 @@
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.csproj.AssemblyReference.cache
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.AssemblyInfoInputs.cache
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.AssemblyInfo.cs
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.csproj.CoreCompileInputs.cache
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.RazorAssemblyInfo.cache
+D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net5.0\Synthesis Website.RazorAssemblyInfo.cs

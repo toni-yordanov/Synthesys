@@ -1,0 +1,20 @@
+﻿@page
+@model Synthesis_Website.Pages.TournamentPages.TournamentsModel
+@{
+}
+
+<h1>Tournaments:</h1>
+
+@foreach(SynthesisClassLibrary.Classess.Tournament t in Model.Manager.GetTournaments()){
+	<p>@t.ToString()</p> 
+	<a asp-page="/TournamentPages/Tournament" asp-route-Id="@t.Id">View</a>
+	@if(User.Identity.IsAuthenticated){
+	<form>
+		
+	<input hidden value="@t.Id" asp-for="TournamentsId">
+	<button type="submit">Enter</button>
+
+	</form>
+
+	}
+}
