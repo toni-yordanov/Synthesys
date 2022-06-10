@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj": {}
+    "D:\\Git\\synthesis\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj": {}
   },
   "projects": {
-    "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj": {
+    "D:\\Git\\synthesis\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj",
+        "projectUniqueName": "D:\\Git\\synthesis\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj",
         "projectName": "SynthesisClassLibrary",
-        "projectPath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj",
+        "projectPath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net48": {}
       }
     },
-    "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj": {
+    "D:\\Git\\synthesis\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj",
+        "projectUniqueName": "D:\\Git\\synthesis\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj",
         "projectName": "TestProjectSynthesis",
-        "projectPath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj",
+        "projectPath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj",
         "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\TestProjectSynthesis\\obj\\",
+        "outputPath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\TestProjectSynthesis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,8 +43,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj": {
-                "projectPath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj"
+              "D:\\Git\\synthesis\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj": {
+                "projectPath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj"
               }
             }
           }

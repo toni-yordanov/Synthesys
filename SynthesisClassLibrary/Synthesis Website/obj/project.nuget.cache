@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oTycF1JE4+PXRvFj8KZ57WYhRo3J/6/VwP2n1IdOn6fvUuSRO6rW77X7Qc2JRDOc7/bR3kzL6C14fl8eWLV65Q==",
+  "dgSpecHash": "ZSCWYpZSrP9AnUY8zC14wHreOvPyN3UDiHIFX6jIxTsH560c4Zmn3JALTFL/sje1J9yfsyOVfHimZSycHCa1vQ==",
   "success": true,
-  "projectFilePath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\Synthesis Website\\Synthesis Website.csproj",
+  "projectFilePath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\Synthesis Website\\Synthesis Website.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anton\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Anton\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

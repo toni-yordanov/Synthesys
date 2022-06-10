@@ -872,11 +872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\Synthesis Website\\Synthesis Website.csproj",
+      "projectUniqueName": "D:\\Git\\synthesis\\SynthesisClassLibrary\\Synthesis Website\\Synthesis Website.csproj",
       "projectName": "Synthesis Website",
-      "projectPath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\Synthesis Website\\Synthesis Website.csproj",
+      "projectPath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\Synthesis Website\\Synthesis Website.csproj",
       "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\Synthesis Website\\obj\\",
+      "outputPath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\Synthesis Website\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -893,8 +893,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj": {
-              "projectPath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj"
+            "D:\\Git\\synthesis\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj": {
+              "projectPath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\SynthesisClassLibrary\\SynthesisClassLibrary.csproj"
             }
           }
         }

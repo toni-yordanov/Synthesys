@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZaiM8pwAVxGCcZ1rQPHyz96iuaspx0FAgYXY3ADNLFYzRyHK5MmCLvnwb8SJxERPdZluOu2JC/+GpdgTmw61EQ==",
+  "dgSpecHash": "JbWiPZ89SsNxMHroWRdeNm5w2CFy8fesVLmoQ4JhUiWCgmxYFqahkA2B+D4dsVB4uNQdZuY+1bW1G8tG9Zwlqg==",
   "success": true,
-  "projectFilePath": "D:\\Git\\wad-and-ood-projects\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj",
+  "projectFilePath": "D:\\Git\\synthesis\\SynthesisClassLibrary\\TestProjectSynthesis\\TestProjectSynthesis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anton\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Anton\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

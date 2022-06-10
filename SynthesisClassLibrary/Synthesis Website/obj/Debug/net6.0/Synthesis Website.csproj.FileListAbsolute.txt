@@ -47,3 +47,52 @@ D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\ne
 D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.pdb
 D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.genruntimeconfig.cache
 D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\ref\Synthesis Website.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\appsettings.Development.json
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\appsettings.json
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Synthesis Website.staticwebassets.runtime.json
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Synthesis Website.exe
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Synthesis Website.deps.json
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Synthesis Website.runtimeconfig.json
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Synthesis Website.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Synthesis Website.pdb
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\MySql.Data.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\ZstdNet.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\SynthesisClassLibrary.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\SynthesisClassLibrary.pdb
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\bin\Debug\net6.0\SynthesisClassLibrary.dll.config
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.csproj.AssemblyReference.cache
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.AssemblyInfoInputs.cache
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.AssemblyInfo.cs
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.csproj.CoreCompileInputs.cache
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.RazorAssemblyInfo.cache
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.RazorAssemblyInfo.cs
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\staticwebassets.build.json
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\staticwebassets.development.json
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\scopedcss\bundle\Synthesis Website.styles.css
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\scopedcss\projectbundle\Synthesis Website.bundle.scp.css
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.csproj.CopyComplete
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\refint\Synthesis Website.dll
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.pdb
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\Synthesis Website.genruntimeconfig.cache
+D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\obj\Debug\net6.0\ref\Synthesis Website.dll

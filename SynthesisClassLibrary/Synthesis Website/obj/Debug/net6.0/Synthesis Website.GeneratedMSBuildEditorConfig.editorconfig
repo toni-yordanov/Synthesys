@@ -8,69 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Synthesis_Website
 build_property.RootNamespace = Synthesis_Website
-build_property.ProjectDir = D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website\
+build_property.ProjectDir = D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Git\wad-and-ood-projects\SynthesisClassLibrary\Synthesis Website
+build_property.MSBuildProjectDirectory = D:\Git\synthesis\SynthesisClassLibrary\Synthesis Website
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Account/AccountPage.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Account/AccountPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxBY2NvdW50UGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Account/LogIn.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Account/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Account/Logout.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Account/PlayersPage.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Account/PlayersPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxQbGF5ZXJzUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Account/Register.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Error.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Index.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Privacy.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Shared/_LoginStatusPartial.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Shared/_LoginStatusPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblN0YXR1c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/TournamentPages/Tournament.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/TournamentPages/Tournament.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG91cm5hbWVudFBhZ2VzXFRvdXJuYW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/TournamentPages/Tournaments.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/TournamentPages/Tournaments.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG91cm5hbWVudFBhZ2VzXFRvdXJuYW1lbnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/_ViewImports.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/_ViewStart.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git/wad-and-ood-projects/SynthesisClassLibrary/Synthesis Website/Pages/Shared/_Layout.cshtml]
+[D:/Git/synthesis/SynthesisClassLibrary/Synthesis Website/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jtb1h1utkm
